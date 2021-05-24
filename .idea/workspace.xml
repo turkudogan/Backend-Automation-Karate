@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f3d135e-86d4-4a00-b12b-0b3fa875c881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Karate-Backend-Automation/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Karate-Backend-Automation/ScoreRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Common/getScore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Karate-Backend-Automation/DatabaseConnection/DBName.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Karate-Backend-Automation/Handset/getScore.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ForkJoinPool-1-worker-3.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1621895236202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="597" height="490" key="find.popup/-233.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621895236202" />
+  </component>
+</project>
